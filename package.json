@@ -1,17 +1,17 @@
 
 {
-  "name": "YESSER-MD",
+  "name": "LEONARD-MD-V5",
   "version": "10.8.1",
-  "description": "YESSER-MD latest multi device whatsapp bot",
+  "description": "LEONARD-MD-V5 latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name BMW-MD",
-    "stop": "pm2 stop YESSER-MD",
-    "restart": "pm2 restart YESSER-MD"
+    "stop": "pm2 stop LEONARD-MD-V5",
+    "restart": "pm2 restart LEONARD-MD-V5"
   },
-  "keywords": ["YESSER-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "yesser tech",
+  "keywords": ["LEONARD-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "leonard tech",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
