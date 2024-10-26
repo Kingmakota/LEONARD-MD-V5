@@ -1,26 +1,35 @@
 </h1> 
-<p align="center">🇾 🇪 🇸 🇪  🇷  🇲 🇩 
+<p align="center">🇱 🇪 🇴 🇳 🇦 🇷 🇩  🇲 🇩  
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
- </p>
- 
- <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
- <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://files.catbox.moe/x9td6k.jpeg".
+  <a    ###  LEONARD-MD-V5 WA BOT
 
-</h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
-YESSER MD</b>, simple powerful bot </p>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝗟𝗘𝗢𝗡𝗔𝗥𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗟𝗘𝗢𝗡𝗔𝗥𝗗.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝗟𝗘𝗢𝗡𝗔𝗥𝗗࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://files.catbox.moe/ps546b.jpg">
+ <img alt="LEONARD-MD" height="300" src="https://files.catbox.moe/ps546b.jpg">
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝗟𝗘𝗢𝗡𝗔𝗥𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗟𝗘𝗢𝗡𝗔𝗥𝗗.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝗟𝗘𝗢𝗡𝗔𝗥𝗗࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹.)](https://git.io/typing-svg)
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+  </h1> 
+<p align="center">l introduce <b>LEONARD-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin994?label=Followers&style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/YESSER-MD?&style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/YESSER-MD?style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/YESSER-MD?label=Watching&style=social"></a>
+<a href="https://github.com/kingmakota?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmakota?label=Followers&style=social"></a>
+<a href="https://github.com/kingmakota/leonard-md-v5/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/kingmakota/leonard-md-v5?&style=social"></a>
+<a href="https://github.com/kingmakota/leonard-md-v5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmakota/leonard-md-v5?style=social"></a>
+<a href="https://github.com/kingmakota/leonard-md-v5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmakota/leonard-md-v5?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{yassin994}/count.svg" alt="YESSER-MD :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kingmakota}/count.svg" alt="leonard-md-v5 :: Visitor's Count"/></p>
+
+---
+
 
 </a>
   <div align="center">
@@ -30,11 +39,13 @@ YESSER MD</b>, simple powerful bot </p>
 ---
 
 <p align="center">
-  <a href="https://github.com/yassin994/yesser_md"><b>𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/kingmakota/Leonard-md-v5"><b>Leonard-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/vgQlWzsmMcI?si=gYzfuFfVSJedpuhh"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/kingmakota/Leonard-Md-v5/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Kingmakota/LEONARD-MD-V5/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
 
@@ -47,126 +58,119 @@ YESSER MD</b>, simple powerful bot </p>
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Enjoy++new vision..🖐️🤠+YESSER-MD+powered+by+YESSER TECH" alt="Typing SVG" /></a>
 
 
 
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻 
 
+## HOW TO DEPLOY LEONARD-MD-V5
 
-## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-FORK this repo YESSER-MD
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-
-<a href="https://github.com/yassin994/YESSER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
-
-## 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
-
-
- 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐
+## 1.FIRST STEP 
+## Fork Leonard Md Repo
+👇 👇  👇 👇
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
  
+- <a href="https://github.com/kingmakota/LEONARD-MD-V5/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-<a href="https://yesser.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+star✨ my repo if you like this bot🤖
 
 
+## 2.SECOND STEP 
+
+
+ GET SESSION ID BY
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
+
+
+### QR SITE
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+- <a href="https://Leonard-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+### SESSION SITE
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+- <a href="https://Leonard-session.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+
+
+### 3.THIRD STEP 
+1. If You Don't Have An Account On Heroku**
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+   <br>
+    <a 
+- <a align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-darkblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+### 2. If You Have Account On Heroku**👇 👇 👇
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  
-<a href="https://yesser.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+   <br>
+    - <a href='https://dashboard.heroku.com/new?template=https://github.com/kingmakota/LEONARD-MD-V5/tree/main' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
-## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
-**1. ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**
+### DEPLOY ON RENDER
 
-<a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/ℂℝ𝔼𝔸𝕋𝔼%20𝔸ℂℂ𝕆𝕌ℕ𝕋%20ℕ𝕆𝕎-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
+1. If you don't have an account in RENDER, create one and deploy.
 
-**2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
-<br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-1/tree/main">
- <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+   <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_darkblue"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=render&logoColor=white'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+   ###
 
+CONTACT DEVELOPER ON WHATSAPP 
 
-#### DEPLOY ON RENDER 
-**1. If You Don't Have An Account On Render**
-- <a href="https://dashboard.render.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-**2. If You Have an account on Render**
-- <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-**.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
-- <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://wa.me/message/255655192476" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/leonard tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-
-
-
-##
-
-## 🖐️*FOR BOTTOM MODE💫*
-       _JUST USE BMW CODE THE REALLY CODE THEIR IN PROCESS sOON will update 💯_
-     👉💫 Fork the repo
-    <br>
-<a href='https://github.com/Yassin994/YESSER-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=yellow&labelColor=pink&color=yellow'/></a>
-
-
-👉💞 Get session id 💞
-    <br>
-<a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
-
-
-    
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+  
+ 
+<a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ LEONARD_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
 
 
+  ## License
+
+The WhatsApp Bot LEONARD-MD-V5 is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️😊;DEVELOPED+BY+LEONARD+TECH;RELEASED+DATE+01%2F10%2F2024." alt="Typing SVG" /></a>
 
 
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 LEONARD🍀--MD-V5 🌟
 
-
-
-ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
-
-𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼💯if u need support
-<a href="https://wa.me/255621995482?text=Hi+YESSERTECH+I+Need+Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
-
-
-𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃
-<a
-href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"  target="blank"><img
- align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
-
-
-𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃
-<a href="https://www.youtube.com/@Yesserboy92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freditech" height="60" width="70" /></a>
-
-
-## License
-
-The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensource.org/licenses/MIT).
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️🤠;DEVELOPED+BY+YESSER+TECH;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
-
-
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 YESSER🍀_MD 🌟
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+YESSER- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+LEONARD- MD-V5+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**YESSIR TECH**](https://github.com/yassin994)
-- [**BONIPHACE TECH**](http://github.com/Boniphace30)
-- [**Developers YT**](https://www.youtube.com/@Yesserboy92)
+- [**LEONARD TECH**](http://github.com/kingmakota)
 
 
-★im born to win🏹. ©
+★im born to win😎. ©
      
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+YESSER+MD🤠" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+LEONARD+MD+V5😊" alt="Typing SVG" /></a>
 
 
 
@@ -176,15 +180,18 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 
 <table>
   <tr>
-    <td>YESSER</td></td>
+    <td>𝑲𝒊𝒏𝒈 𝑳𝒆𝒐𝒏𝒂𝒓𝒅👑</td></td>
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/255716662453?"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+    <td><a href="https://wa.me/255655192476?"><img src="https://files.catbox.moe/1opvdg.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://files.catbox.moe/38ofr2.jpg" width="180"</td>
   </tr>
 </table>
 
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+     
